@@ -1,5 +1,5 @@
 ## My first project in JavaScript
-<p>Praticando Promisses e DOM</p>
+<p>Praticando Promises e DOM</p>
 
 ## Tecnologias usadas:
 
